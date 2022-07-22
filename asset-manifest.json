@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/react-gh-pages/static/css/main.b52ad18f.css",
-    "main.js": "/react-gh-pages/static/js/main.88d8fe0e.js",
-    "static/js/787.18e77893.chunk.js": "/react-gh-pages/static/js/787.18e77893.chunk.js",
-    "service-worker.js": "/react-gh-pages/service-worker.js",
-    "static/media/logo.svg": "/react-gh-pages/static/media/logo.103b5fa18196d5665a7e12318285c916.svg",
-    "index.html": "/react-gh-pages/index.html",
-    "main.b52ad18f.css.map": "/react-gh-pages/static/css/main.b52ad18f.css.map",
-    "main.88d8fe0e.js.map": "/react-gh-pages/static/js/main.88d8fe0e.js.map",
-    "787.18e77893.chunk.js.map": "/react-gh-pages/static/js/787.18e77893.chunk.js.map"
+    "main.css": "/7concept/static/css/main.b52ad18f.css",
+    "main.js": "/7concept/static/js/main.d6748c55.js",
+    "static/js/787.18e77893.chunk.js": "/7concept/static/js/787.18e77893.chunk.js",
+    "service-worker.js": "/7concept/service-worker.js",
+    "static/media/logo.svg": "/7concept/static/media/logo.103b5fa18196d5665a7e12318285c916.svg",
+    "index.html": "/7concept/index.html",
+    "main.b52ad18f.css.map": "/7concept/static/css/main.b52ad18f.css.map",
+    "main.d6748c55.js.map": "/7concept/static/js/main.d6748c55.js.map",
+    "787.18e77893.chunk.js.map": "/7concept/static/js/787.18e77893.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.b52ad18f.css",
-    "static/js/main.88d8fe0e.js"
+    "static/js/main.d6748c55.js"
   ]
 }
