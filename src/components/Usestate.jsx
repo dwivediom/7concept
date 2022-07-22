@@ -1,6 +1,7 @@
 import React,{useState} from 'react'
 import  'materialize-css';
 import "../App.css"; 
+import Navbar from './Navbar';
                                       
 
 
@@ -8,8 +9,7 @@ function Usestate() {
 
    const [Data, setData] = useState(0)
   return (
-    <> 
-        
+    <>    <Navbar/>
         <div class="card-panel hoverable lfmargin"> 
          <div className="card-title fontPopins  "><h6>useState hooks</h6> </div>
 
