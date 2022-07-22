@@ -1,3 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@1,500&display=swap');
+ body{ 
+  background-color: antiquewhite;
+ }
+ :root{ 
+  --popins : 'Poppins', sans-serif;
+ }
+.fontPopins { 
+     font-family: var(--popins);     
+}
+
+  
 .App {
   text-align: center;
 }
@@ -35,4 +47,18 @@
   to {
     transform: rotate(360deg);
   }
+}
+.lfmargin{ 
+   margin: 40px;
+}
+code { 
+  font-family: Consolas,"courier new";
+color: crimson;
+background-color: #f1f1f1;
+padding: 2px;
+font-size: 105%
+}
+
+.b-awhite{ 
+  background-color: antiquewhite !important  ;
 }
