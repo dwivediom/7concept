@@ -5,6 +5,9 @@ function Homepage() {
   return (
     <div>
         <Navbar/>
+
+         <br />
+         <br />
         <div class="row">
     <div class="col s12 m7">
       <div class="card">
