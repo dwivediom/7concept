@@ -24,6 +24,8 @@ export class Navbar extends Component {
         <li><Link to="/reacthooks">React Hooks</Link></li>
         <li><Link to="/usereducer">useReducer</Link></li>
         <li><Link to="collapsible.html">JavaScript</Link></li>
+        
+        <li><Link to="/testGround">Test ground</Link></li>
       </ul>
     </div>
   </nav>

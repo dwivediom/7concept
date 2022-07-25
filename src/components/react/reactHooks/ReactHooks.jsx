@@ -2,6 +2,7 @@ import React from 'react'
 import Navbar from '../../Navbar'
 
 import UseReducerTutorial from './UseReducerTutorial'
+import UseRefHookEx from './UserRefHook/UseRefHookEx'
 import Usestate from './Usestate'
 
 function ReactHooks() {
@@ -14,6 +15,10 @@ function ReactHooks() {
 
          <Usestate/>
          <UseReducerTutorial/>
+
+        
+
+
     </div>
   )
 }

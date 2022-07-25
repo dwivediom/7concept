@@ -6,6 +6,7 @@ import { BrowserRouter, Routes, Route } from "react-router-dom";
 
 import Homepage from './components/Homepage';
 import ReactHooks from './components/react/reactHooks/ReactHooks';
+import Testground from './components/Testground';
 
 function App() {
   return (
@@ -15,6 +16,7 @@ function App() {
       <Route path="/7concept" element={<Homepage/>} />
           <Route path="/" element={<Usestate/>} />
           <Route path="/ReactHooks" element={<ReactHooks/>} />
+          <Route path="/TestGround" element={<Testground/>} />
       </Routes>
     </BrowserRouter>
    

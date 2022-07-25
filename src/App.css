@@ -62,3 +62,12 @@ font-size: 105%
 .b-awhite{ 
   background-color: antiquewhite !important  ;
 }
+
+.card-title{ 
+  font-family: var(--popins);
+  font-weight: bold;
+  color: rgb(255, 112, 112);
+}
+.cmargin { 
+  margin : 10px ; 
+}
